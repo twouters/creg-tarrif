@@ -1,78 +1,80 @@
-[
-  {
-    "start_date": "2025-10-01",
-    "end_date": "2025-12-31",
-    "quarter": "2025-Q4",
-    "rates": [
-      {
-        "region": "BE-VGL",
-        "rate": 30.7
-      },
-      {
-        "region": "BE-BRU",
-        "rate": 32.94
-      },
-      {
-        "region": "BE-WAL",
-        "rate": 32.56
-      }
-    ]
-  },
-  {
-    "start_date": "2025-07-01",
-    "end_date": "2025-09-30",
-    "quarter": "2025-Q3",
-    "rates": [
-      {
-        "region": "BE-VGL",
-        "rate": 34.56
-      },
-      {
-        "region": "BE-BRU",
-        "rate": 35.85
-      },
-      {
-        "region": "BE-WAL",
-        "rate": 36.17
-      }
-    ]
-  },
-  {
-    "start_date": "2025-04-01",
-    "end_date": "2025-06-30",
-    "quarter": "2025-Q2",
-    "rates": [
-      {
-        "region": "BE-VGL",
-        "rate": 31.94
-      },
-      {
-        "region": "BE-BRU",
-        "rate": 37.87
-      },
-      {
-        "region": "BE-WAL",
-        "rate": 38.43
-      }
-    ]
-  },
-  {
-    "start_date": "2025-01-01",
-    "end_date": "2025-03-31",
-    "quarter": "2025-Q1",
-    "rates": [
-      {
-        "region": "BE-VGL",
-        "rate": 28.22
-      },
-      {
-        "region": "BE-BRU",
-        "rate": 33.56
-      },
-      {
-        "region": "BE-WAL",
-        "rate": 34.57
-      }
-    ]
-  }
-]
+{
+  "entries": [
+    {
+      "start_date": "2025-10-01",
+      "end_date": "2025-12-31",
+      "quarter": "2025-Q4",
+      "rates": [
+        {
+          "region": "BE-VGL",
+          "rate": 30.7
+        },
+        {
+          "region": "BE-BRU",
+          "rate": 32.94
+        },
+        {
+          "region": "BE-WAL",
+          "rate": 32.56
+        }
+      ]
+    },
+    {
+      "start_date": "2025-07-01",
+      "end_date": "2025-09-30",
+      "quarter": "2025-Q3",
+      "rates": [
+        {
+          "region": "BE-VGL",
+          "rate": 34.56
+        },
+        {
+          "region": "BE-BRU",
+          "rate": 35.85
+        },
+        {
+          "region": "BE-WAL",
+          "rate": 36.17
+        }
+      ]
+    },
+    {
+      "start_date": "2025-04-01",
+      "end_date": "2025-06-30",
+      "quarter": "2025-Q2",
+      "rates": [
+        {
+          "region": "BE-VGL",
+          "rate": 31.94
+        },
+        {
+          "region": "BE-BRU",
+          "rate": 37.87
+        },
+        {
+          "region": "BE-WAL",
+          "rate": 38.43
+        }
+      ]
+    },
+    {
+      "start_date": "2025-01-01",
+      "end_date": "2025-03-31",
+      "quarter": "2025-Q1",
+      "rates": [
+        {
+          "region": "BE-VGL",
+          "rate": 28.22
+        },
+        {
+          "region": "BE-BRU",
+          "rate": 33.56
+        },
+        {
+          "region": "BE-WAL",
+          "rate": 34.57
+        }
+      ]
+    }
+  ]
+}
